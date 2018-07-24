@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "146183782917",
+    "firebase_url": "https://gpstracking-12070.firebaseio.com",
+    "project_id": "gpstracking-12070",
+    "storage_bucket": "gpstracking-12070.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146183782917:android:3c97bd8d98b4a962",
+        "android_client_info": {
+          "package_name": "com.example.romeo.gpstracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "146183782917-4b29rf9rfcukv5jeqcurstkg70q0evqg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.romeo.gpstracker",
+            "certificate_hash": "b817c823fcf9489b6ba4db9bb587ed9e5267cbc4"
+          }
+        },
+        {
+          "client_id": "146183782917-uaeshuh3651d4avkvsa7fmsjd8i34cah.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.romeo.gpstracker",
+            "certificate_hash": "b1a617426746de676351838060311b43313240cb"
+          }
+        },
+        {
+          "client_id": "146183782917-80puoqnd4aeqmuuc2dqbnpas05am0veh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5VVB_H7cTZPn44a80UsqMoD5adTO004Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "146183782917-80puoqnd4aeqmuuc2dqbnpas05am0veh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146183782917:android:814c26b988d93ade",
+        "android_client_info": {
+          "package_name": "me.kindee.romeo.gpstracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "146183782917-arkt6epr01g5khm1t74339chem9jfo9m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "me.kindee.romeo.gpstracker",
+            "certificate_hash": "3d56fd5a9f341874449c62083f504118fc050f90"
+          }
+        },
+        {
+          "client_id": "146183782917-80puoqnd4aeqmuuc2dqbnpas05am0veh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5VVB_H7cTZPn44a80UsqMoD5adTO004Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "146183782917-80puoqnd4aeqmuuc2dqbnpas05am0veh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
